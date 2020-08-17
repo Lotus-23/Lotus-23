@@ -9,5 +9,5 @@
 - 📫 How to reach me: ... email me at lotus23ideas@gmail.com or dm on twitter [@Lotus2316](https://twitter.com/Lotus2316) or Instagram [@magojavier23](https://www.instagram.com/magojavier23/)
 - ⚡ Fun fact: ... Back in my grad student days I worked as a magician to make ends meet! So... was your card the Ace of Spades?
 
-![Javier's github stats](https://github-readme-stats.vercel.app/api?username=lotus-23&show_icons=true&theme=radical)
+![Javier's github stats](https://github-readme-stats.vercel.app/api?username=lotus-23&show_icons=true&theme=blue-green)
 
