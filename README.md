@@ -1,4 +1,4 @@
-### Hi there, I'm Javier Rozas👋
+### Hey there, I'm Javier Rozas👋
 
 ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=lotus-23&show_icons=true&theme=blue-green)
 
